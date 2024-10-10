@@ -1,0 +1,14 @@
+
+---
+
+### Breakdown:
+- **Overview**: A brief introduction to KDos as a DDoS tool.
+- **Features**: Lists the key features such as multithreading, color prompts, and graceful exit handling.
+- **Requirements**: Describes the required Python libraries.
+- **Installation**: Instructions for installing dependencies and running the tool.
+- **Usage**: Describes how the user can provide input with yellow-colored prompts and what they will look like.
+- **Example**: Shows a usage example, including what the tool looks like during execution.
+- **Disclaimer**: A reminder that DDoS attacks are illegal without proper authorization.
+- **License**: Indicates the project is licensed under MIT, commonly used for open-source projects.
+
+This `README.md` file is comprehensive and clear for anyone looking to install and use your KDos tool.

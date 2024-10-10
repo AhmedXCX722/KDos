@@ -1,0 +1,9 @@
+# Python version requirement
+python_version == "3.9"
+
+# These libraries are part of the Python standard library, no external dependencies needed:
+# socket
+# threading
+# random
+# signal
+# sys
